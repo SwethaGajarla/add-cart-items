@@ -1,0 +1,22 @@
+.bg-container{
+    background-color: aquamarine;
+    height: 100vh;
+    padding: 20px;
+    text-align: center;
+}
+.heading{
+    font-family: "roboto";
+    font-size:35px;
+    font-weight: 600;
+    
+}
+.list-items-container{
+    list-style-type: none;
+    margin-top: 5px;
+
+}
+.list-items{
+    font-family: "roboto";
+    font-size: 23px;
+
+}
